@@ -18,18 +18,6 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills
-      username: me
-  - block: resume-awards
-    content:
-      title: Awards & Scholarships
-      username: me
-  - block: resume-languages
-    content:
-      title: Languages
-      username: me
   - block: markdown
     content:
       title: 'Workshops & PhD Schools'
@@ -41,6 +29,20 @@ sections:
         - **[Mar 2021]** Frontiers in Nuclear and Hadronic Physics 2021, online event
         - **[Jul 2019]** Summer School Lectures on High Energy Particle Physics at CERN, Geneva (CH)
         - **[Sep 2018]** Summer School on Plasma Physics and Fusion Research at IPP, Greifswald (DE)
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: 'Achievements, Scholarships & Awards'
+      text: |-
+        - **[2024]** Shortlisted for the MIT 2024-2027 Pappalardo Fellowship.
+        - **[2024]** Winner of the Princeton 2024-2027 Dicke Fellowship. Declined for another position.
+        - **[Jun 2023]** "Chien-Shiung Wu" Best New Talent diploma at ISSP EMFCSC 2023.
+        - **[Sep 2022]** Contribution at the 106th SIF National Congress Italian Physical Society, awarded with the publication on Il Nuovo Cimento.
+        - **[2020]** Winner of a GSSI PhD scholarship.
+        - **[2020]** Winner of a Milano-Bicocca University PhD scholarship.
+        - **[2019]** Winner of a CERN Summer Student scholarship.
+        - **[2018]** Selected as participant for the IPP Summer School on plasma physics.
     design:
       columns: '1'
   - block: markdown
@@ -62,6 +64,28 @@ sections:
         - **[Jul 2024]** Member of the international IDM Conference LOC in L'Aquila.
         - **[2023, 2024]** Organizer of three XENONnT Collaboration Meetings in L'Aquila University and LNGS.
         - **[2023, 2024]** Organizer of two PhTea Talks interdisciplinary informal seminar cycles for PhDs.
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: 'Computing Skills'
+      text: |-
+        - *Operating systems*: Unix/Linux, Windows (basics)
+        - *Programming Languages*:
+          - Advanced: Python, bash
+          - Intermediate: C/C++, MATLAB
+          - Basic: R, Perl
+        - *Software*: Git (and GitHub), ROOT Data Analysis Framework, COMSOL Multiphysics, Stan (basics), Microsoft and Office suite (ECDL Full Standard Certificate, Sep 2015)
+        - *Typesetting*: LaTeX, Markdown
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: 'Language Skills'
+      text: |-
+        - Italian (Native)
+        - English (Fluent)
+        - French (B1 - Between Unimib Open Badge, Jan 2019)
     design:
       columns: '1'
   - block: markdown
