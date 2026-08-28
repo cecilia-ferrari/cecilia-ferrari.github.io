@@ -1,5 +1,6 @@
 ---
 title: 'First Measurement of Gallium Arsenide as a Low-Temperature Calorimeter'
+number: 18
 authors:
   - 'D. L. Helis'
   - 'et al.'

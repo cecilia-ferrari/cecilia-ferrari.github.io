@@ -36,17 +36,18 @@ sections:
     id: papers
     content:
       title: Selected Publications
+      sort_by: number
       filters:
         folders:
           - publications
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
+      view: citation
   - block: collection
     content:
       title: All Publications
       text: ''
+      sort_by: number
       filters:
         folders:
           - publications
@@ -61,5 +62,5 @@ sections:
         folders:
           - events
     design:
-      view: card
+      view: date-title-summary
 ---

@@ -1,5 +1,6 @@
 ---
 title: 'GPU-Based Optical Simulation of the DARWIN Detector'
+number: 3
 authors:
   - 'L. Althueser'
   - 'et al.'

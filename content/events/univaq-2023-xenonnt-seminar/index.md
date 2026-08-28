@@ -1,5 +1,6 @@
 ---
 title: 'Direct Dark Matter Searches with the XENONnT Experiment'
+date: '2023-11-01T00:00:00Z'
 
 event_name: 'UnivAQ Thursday Morning Science Seminars'
 event_url: ''

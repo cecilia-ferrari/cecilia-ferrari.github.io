@@ -1,5 +1,6 @@
 ---
 title: 'Radon Removal in XENONnT down to the Solar Neutrino Level'
+number: 29
 authors:
   - 'me'
   - 'XENON Collaboration'

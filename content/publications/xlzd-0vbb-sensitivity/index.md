@@ -1,5 +1,6 @@
 ---
 title: 'Neutrinoless Double Beta Decay Sensitivity of the XLZD Rare Event Observatory'
+number: 23
 authors:
   - 'me'
   - 'XLZD Collaboration'

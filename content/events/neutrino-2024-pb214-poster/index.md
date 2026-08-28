@@ -1,5 +1,6 @@
 ---
 title: '214Pb Branching Ratios Measurement with XENONnT'
+date: '2024-06-01T00:00:00Z'
 
 event_name: 'NEUTRINO Conference'
 event_url: ''

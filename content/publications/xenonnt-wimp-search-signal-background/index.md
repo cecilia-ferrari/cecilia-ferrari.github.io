@@ -1,5 +1,6 @@
 ---
 title: 'XENONnT WIMP Search: Signal and Background Modeling and Statistical Inference'
+number: 28
 authors:
   - 'me'
   - 'XENON Collaboration'

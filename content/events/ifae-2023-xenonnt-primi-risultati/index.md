@@ -1,5 +1,6 @@
 ---
 title: "Primi risultati dell'esperimento XENONnT"
+date: '2023-04-01T00:00:00Z'
 
 event_name: 'IFAE'
 event_url: ''

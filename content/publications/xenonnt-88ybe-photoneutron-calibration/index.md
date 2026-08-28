@@ -1,5 +1,6 @@
 ---
 title: 'Low-Energy Nuclear Recoil Calibration of XENONnT with a 88YBe Photoneutron Source'
+number: 30
 authors:
   - 'me'
   - 'XENON Collaboration'

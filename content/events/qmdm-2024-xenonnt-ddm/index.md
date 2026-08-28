@@ -1,5 +1,6 @@
 ---
 title: 'Advancements in Direct Dark Matter Detection with XENONnT'
+date: '2024-03-01T00:00:00Z'
 
 event_name: '2nd Quarkonia Meets Dark Matter (QMDM) Workshop'
 event_url: ''

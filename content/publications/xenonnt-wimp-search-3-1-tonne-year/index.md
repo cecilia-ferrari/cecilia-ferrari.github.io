@@ -1,5 +1,6 @@
 ---
 title: 'WIMP Dark Matter Search Using a 3.1 Tonne-Year Exposure of the XENONnT Experiment'
+number: 31
 authors:
   - 'me'
   - 'XENON Collaboration'

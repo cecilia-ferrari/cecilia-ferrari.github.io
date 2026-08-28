@@ -1,5 +1,6 @@
 ---
 title: 'First Measurement of GaAs as a Scintillating Calorimeter: Achievements and Prospects'
+number: 33
 authors:
   - 'A. Melchiorre'
   - 'et al.'

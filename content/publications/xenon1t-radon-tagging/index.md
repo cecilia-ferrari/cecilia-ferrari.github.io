@@ -1,5 +1,6 @@
 ---
 title: 'Offline Tagging of Radon-Induced Backgrounds in XENON1T and Applicability to Other Liquid Xenon Detectors'
+number: 16
 authors:
   - 'me'
   - 'XENON Collaboration'

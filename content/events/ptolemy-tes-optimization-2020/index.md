@@ -1,5 +1,6 @@
 ---
 title: 'Optimization of TES-Based Microcalorimeters for PTOLEMY'
+date: '2020-02-01T00:00:00Z'
 
 event_name: 'Detection of the Absolute Electron (anti)neutrino Mass Workshop'
 event_url: ''

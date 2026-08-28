@@ -1,5 +1,6 @@
 ---
 title: 'XENONnT Direct Dark Matter Searches: The Latest Results'
+date: '2023-09-01T00:00:00Z'
 
 event_name: 'TeVPA'
 event_url: ''

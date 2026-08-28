@@ -1,5 +1,6 @@
 ---
 title: 'The XLZD Design Book: Towards the Next-Generation Liquid Xenon Observatory for Dark Matter and Neutrino Physics'
+number: 22
 authors:
   - 'me'
   - 'XLZD Collaboration'

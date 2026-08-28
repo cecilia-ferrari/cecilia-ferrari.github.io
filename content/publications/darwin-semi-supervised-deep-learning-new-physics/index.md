@@ -1,5 +1,6 @@
 ---
 title: 'Model-Independent Searches of New Physics in DARWIN with a Semi-Supervised Deep Learning Pipeline'
+number: 21
 authors:
   - 'me'
   - 'DARWIN Collaboration'

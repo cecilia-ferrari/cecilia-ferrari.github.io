@@ -1,5 +1,6 @@
 ---
 title: 'The Triggerless Data Acquisition System of the XENONnT Experiment'
+number: 8
 authors:
   - 'me'
   - 'XENON Collaboration'

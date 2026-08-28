@@ -1,5 +1,6 @@
 ---
 title: 'Constraints on Solar Reflected Dark Matter from a Combined Analysis of XENON1T and XENONnT Data'
+number: 35
 authors:
   - 'me'
   - 'XENON Collaboration'

@@ -1,5 +1,6 @@
 ---
 title: 'XENONnT Analysis: Signal Reconstruction, Calibration and Event Selection'
+number: 27
 authors:
   - 'me'
   - 'XENON Collaboration'

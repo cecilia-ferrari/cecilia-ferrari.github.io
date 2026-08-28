@@ -1,5 +1,6 @@
 ---
 title: 'The Physics-Driven Surface Background Model for XENONnT'
+date: '2023-08-01T00:00:00Z'
 
 event_name: 'TAUP'
 event_url: ''

@@ -1,5 +1,6 @@
 ---
 title: 'Measuring the Optical Scattering in n-Type GaAs That Could Explain Its High Cryogenic Scintillation Luminosity'
+date: '2025-10-01T00:00:00Z'
 
 event_name: 'CPAD'
 event_url: ''

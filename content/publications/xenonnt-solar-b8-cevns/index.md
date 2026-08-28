@@ -1,5 +1,6 @@
 ---
 title: 'First Indication of Solar 8B Neutrinos via Coherent Elastic Neutrino-Nucleus Scattering with XENONnT'
+number: 25
 authors:
   - 'me'
   - 'XENON Collaboration'

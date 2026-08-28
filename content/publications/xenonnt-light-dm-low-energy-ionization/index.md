@@ -1,5 +1,6 @@
 ---
 title: 'Search for Light Dark Matter in Low-Energy Ionization Signals from XENONnT'
+number: 24
 authors:
   - 'me'
   - 'XENON Collaboration'

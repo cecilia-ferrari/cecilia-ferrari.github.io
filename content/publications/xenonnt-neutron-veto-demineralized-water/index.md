@@ -1,5 +1,6 @@
 ---
 title: 'The Neutron Veto of the XENONnT Experiment: Results with Demineralized Water'
+number: 26
 authors:
   - 'me'
   - 'XENON Collaboration'

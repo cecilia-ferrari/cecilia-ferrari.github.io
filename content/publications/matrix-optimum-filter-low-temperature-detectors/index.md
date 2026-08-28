@@ -1,5 +1,6 @@
 ---
 title: 'The Matrix Optimum Filter for Low Temperature Detectors Dead-Time Reduction'
+number: 4
 authors:
   - 'M. Borghesi'
   - 'et al.'

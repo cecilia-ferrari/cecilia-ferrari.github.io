@@ -1,5 +1,6 @@
 ---
 title: 'First Dark Matter Search with Nuclear Recoils from the XENONnT Experiment'
+number: 9
 authors:
   - 'me'
   - 'XENON Collaboration'

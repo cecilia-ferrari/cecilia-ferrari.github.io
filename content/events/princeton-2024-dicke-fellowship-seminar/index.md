@@ -1,5 +1,6 @@
 ---
 title: 'More than Background: Lead Studies in XENONnT'
+date: '2024-03-01T00:00:00Z'
 
 event_name: 'Princeton Physics Department — Dicke Fellowship Seminar'
 event_url: ''

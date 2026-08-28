@@ -1,5 +1,6 @@
 ---
 title: 'The ABALONE Photosensor'
+number: 2
 authors:
   - "V. D'Andrea"
   - 'et al.'

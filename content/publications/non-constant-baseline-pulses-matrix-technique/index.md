@@ -1,5 +1,6 @@
 ---
 title: 'Processing of Non-Constant Baseline Pulses: A Matrix Technique'
+number: 1
 authors:
   - 'me'
 date: "2021-01-01T00:00:00Z"

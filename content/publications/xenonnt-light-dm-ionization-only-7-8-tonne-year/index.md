@@ -1,5 +1,6 @@
 ---
 title: 'Light Dark Matter Search with 7.8 Tonne-Year of Ionization-Only Data in XENONnT'
+number: 36
 authors:
   - 'me'
   - 'XENON Collaboration'

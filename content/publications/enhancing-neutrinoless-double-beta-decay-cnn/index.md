@@ -1,5 +1,6 @@
 ---
 title: 'Enhancing Neutrinoless Double-Beta Decay Sensitivity of Liquid-Xenon Time Projection Chamber with Augmented Convolutional Neural Network'
+number: 37
 authors:
   - 'me'
   - 'XENON Collaboration'

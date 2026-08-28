@@ -1,0 +1,5 @@
+# Hugo Blox
+# Social sharing links - disabled site-wide for a cleaner page footer.
+# Docs: https://docs.hugoblox.com/reference/page-sharer/
+
+links: []

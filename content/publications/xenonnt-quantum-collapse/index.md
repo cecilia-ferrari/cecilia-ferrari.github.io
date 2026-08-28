@@ -1,5 +1,6 @@
 ---
 title: 'Challenging Spontaneous Quantum Collapse with the XENONnT Dark Matter Detector'
+number: 32
 authors:
   - 'me'
   - 'XENON Collaboration'

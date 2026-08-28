@@ -1,5 +1,6 @@
 ---
 title: 'Low-Energy Calibration of XENON1T with an Internal 37Ar Source'
+number: 7
 authors:
   - 'me'
   - 'XENON Collaboration'

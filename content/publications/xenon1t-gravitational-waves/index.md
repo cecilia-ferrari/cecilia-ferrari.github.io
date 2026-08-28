@@ -1,5 +1,6 @@
 ---
 title: 'Search for Events in XENON1T Associated with Gravitational Waves'
+number: 12
 authors:
   - 'me'
   - 'XENON Collaboration'

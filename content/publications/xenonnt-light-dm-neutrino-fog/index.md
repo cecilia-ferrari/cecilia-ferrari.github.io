@@ -1,5 +1,6 @@
 ---
 title: 'First Search for Light Dark Matter in the Neutrino Fog with XENONnT'
+number: 20
 authors:
   - 'me'
   - 'XENON Collaboration'

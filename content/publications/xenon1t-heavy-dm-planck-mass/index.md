@@ -1,5 +1,6 @@
 ---
 title: 'Searching for Heavy Dark Matter near the Planck Mass with XENON1T'
+number: 11
 authors:
   - 'me'
   - 'XENON Collaboration'

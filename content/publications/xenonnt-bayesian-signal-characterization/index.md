@@ -1,5 +1,6 @@
 ---
 title: 'Detector Signal Characterization with a Bayesian Network in XENONnT'
+number: 10
 authors:
   - 'me'
   - 'XENON Collaboration'

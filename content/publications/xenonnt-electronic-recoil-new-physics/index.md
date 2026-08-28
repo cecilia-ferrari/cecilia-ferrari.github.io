@@ -1,5 +1,6 @@
 ---
 title: 'Search for New Physics in Electronic Recoil Data from XENONnT'
+number: 5
 authors:
   - 'me'
   - 'XENON Collaboration'

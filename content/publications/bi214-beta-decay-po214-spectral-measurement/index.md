@@ -1,5 +1,6 @@
 ---
 title: 'Spectral Measurement of the Bi-214 Beta Decay to the Po-214 Ground State with the XENONnT Experiment'
+number: 34
 authors:
   - 'me'
   - 'XENON Collaboration'

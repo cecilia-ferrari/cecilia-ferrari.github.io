@@ -1,5 +1,6 @@
 ---
 title: 'The XENONnT Dark Matter Experiment'
+number: 15
 authors:
   - 'me'
   - 'XENON Collaboration'

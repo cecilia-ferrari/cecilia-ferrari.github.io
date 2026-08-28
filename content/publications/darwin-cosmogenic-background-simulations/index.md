@@ -1,5 +1,6 @@
 ---
 title: 'Cosmogenic Background Simulations for the DARWIN Observatory at Different Underground Locations'
+number: 13
 authors:
   - 'M. Adrover'
   - 'et al.'

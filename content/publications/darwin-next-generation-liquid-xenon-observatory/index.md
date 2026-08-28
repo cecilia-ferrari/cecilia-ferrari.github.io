@@ -1,5 +1,6 @@
 ---
 title: 'A Next-Generation Liquid Xenon Observatory for Dark Matter and Neutrino Physics'
+number: 6
 authors:
   - 'J. Aalbers'
   - 'et al.'

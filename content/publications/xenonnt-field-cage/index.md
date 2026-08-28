@@ -1,5 +1,6 @@
 ---
 title: 'Design and Performance of the Field Cage for the XENONnT Experiment'
+number: 14
 authors:
   - 'me'
   - 'XENON Collaboration'
