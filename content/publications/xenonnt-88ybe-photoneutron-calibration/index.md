@@ -1,16 +1,14 @@
 ---
-title: 'XENONnT WIMP Search: Signal and Background Modeling and Statistical Inference'
+title: 'Low-Energy Nuclear Recoil Calibration of XENONnT with a 88YBe Photoneutron Source'
 authors:
   - 'me'
   - 'XENON Collaboration'
-date: "2025-01-01T00:00:00Z"
-publishDate: "2025-01-01T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
+publishDate: "2026-01-01T00:00:00Z"
 
 publication_types: ['article-journal']
 publication:
   name: "Phys. Rev. D"
-  volume: "111"
-  pages: "103040"
 
 peer_reviewed: true
 open_access: false
@@ -21,11 +19,11 @@ tags:
   - 'Dark Matter'
   - 'XENONnT'
 
-featured: true
+featured: false
 
 links:
   - type: doi
-    url: "https://doi.org/10.1103/PhysRevD.111.103040"
+    url: "https://doi.org/10.1103/rsl9-j1ky"
 
 projects: []
 slides: ""

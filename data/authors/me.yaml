@@ -11,13 +11,13 @@ name:
 postnominals: []
 status:
   icon: "🔭"
-role: PhD Candidate in Astroparticle Physics
+role: Postdoctoral Associate in Astroparticle Physics
 bio: |
-  I am interested in detector R&D for Beyond Standard Model physics experiments. I have experience in neutrino mass physics, nuclear physics in ultra-low-background experiments, and WIMP and light dark matter searches. I have characterized and refined pulse-processing tools for several low-temperature devices, including multiplexed TESs, the ABALONE prototype and SiPMs, and have conducted several data analysis and sensitivity studies.
+  I am interested in detector R&D and data analysis for Beyond Standard Model physics experiments. I have experience in neutrino mass, neutrino oscillation, nuclear and dark matter physics in ultra-low-background experiments. I currently am a postdoc associate at MIT, working on neutrino and dark matter experiments in the Russell group.
 
 affiliations:
-  - name: Gran Sasso Science Institute
-    url: https://www.gssi.it/
+  - name: MIT
+    url: https://web.mit.edu/
 
 links:
   - icon: at-symbol
@@ -29,10 +29,11 @@ links:
     url: https://orcid.org/0000-0002-0838-2328
 
 interests:
-  - Detector R&D for Beyond Standard Model physics
+  - Detector R&D and data analysis for Beyond Standard Model physics
   - Direct dark matter detection (XENONnT, DARWIN, XLZD)
-  - Light dark matter searches with low-temperature detectors
-  - Neutrino mass physics
+  - Sub-GeV dark matter searches with scintillating GaAs
+  - Liquid argon TPCs and DUNE (NDLAr, LArPix)
+  - Neutrino mass and neutrino oscillation physics
   - Nuclear physics in ultra-low-background experiments
   - Low-temperature devices (TES, ABALONE, SiPMs)
 
@@ -40,8 +41,11 @@ education:
   - degree: PhD in Astroparticle Physics
     institution: Gran Sasso Science Institute (L'Aquila, Italy)
     start: 2020-09-01
+    end: 2025-05-31
     summary: |
-      Working in the XENON, DARWIN and XLZD Collaborations and the DAREDEVIL light dark matter low-temperature detectors R&D project at LNGS.
+      Cum Laude.
+
+      Thesis: Radon-Induced Lead Isotopes in XENONnT: Studies on Branching Ratios and Surface Background.
 
       Supervisor: A. D. Ferella
   - degree: Master's Degree in Experimental Particle Physics
@@ -66,9 +70,19 @@ education:
       Supervisor: T. Tabarelli de Fatis
 
 experience:
+  - role: Postdoctoral Associate — Russell Group
+    org: MIT (Boston, Massachusetts)
+    start: 2025-06-01
+    summary: |
+      - Scintillating GaAs studies for sub-GeV dark matter searches: sensitivity studies for a scintillating GaAs-based device; laboratory characterization of GaAs crystal response to infrared laser.
+      - Charge Readout Expert for the NDLAr DUNE prototype: charge readout expert in the 2x2 DUNE NDLAr prototype; served as shifter in 2x2 Run2.
+      - Hardware and software studies in the DUNE collaboration: characterization studies of the LArPix ASIC-based charge readout system; simulation analyses for DUNE NDLAr requirements verification in terms of tracking and spatial resolution.
+      - MArLENA MIT LAr TPC commissioning: material procurement for LAr TPC construction and commissioning in the MIT Russell lab; assembly of a LAr molecular sieve based filter.
+      - Neutrino phenomenology studies: thermal solar neutrino phenomenology studies.
   - role: PhD Researcher — XENON, DARWIN & XLZD Collaborations, DAREDEVIL project
     org: Laboratori Nazionali del Gran Sasso (Assergi, Italy)
     start: 2021-07-01
+    end: 2025-05-31
     summary: |
       - Member of the DAREDEVIL light dark matter project: light dark matter sensitivity studies with milli-Kelvin macrocalorimeters using a GaAs semiconductor target.
       - Co-leader of the high-energy electronic-recoil (ER) XENONnT analysis group: coordination of the analysis group and development of the background modeling and fitting framework for XENONnT high-energy electron recoil analyses.
@@ -143,6 +157,16 @@ languages:
     label: 'B1 — BBetween Unimib Open Badge'
 
 awards:
+  - title: Princeton Dicke Fellowship (2024-2027)
+    awarder: Princeton University
+    date: "2024-01-01"
+    summary: Winner of the Princeton 2024-2027 Dicke Fellowship. Declined in favor of another position.
+    icon: hero/trophy
+  - title: MIT Pappalardo Fellowship (2024-2027)
+    awarder: Massachusetts Institute of Technology
+    date: "2024-01-01"
+    summary: Shortlisted for the MIT 2024-2027 Pappalardo Fellowship.
+    icon: hero/trophy
   - title: "\"Chien-Shiung Wu\" Best New Talent diploma"
     awarder: ISSP EMFCSC 2023
     date: "2023-06-01"

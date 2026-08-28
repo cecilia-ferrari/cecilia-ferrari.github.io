@@ -47,6 +47,7 @@ sections:
     content:
       title: 'Teaching & Supervision Duties'
       text: |-
+        - **[2025–present]** Thomas Barbera – Graduate Student.
         - **[2023]** Andrea Melchiorre – Master Thesis: Characterization of SiPMs for dark matter research experiments.
         - **[2023]** Chiara Di Donato – Master Thesis: XENONnT electronic recoil response characterization.
         - **[2023]** Matteo Giammarco – Bachelor Thesis: Misura di coincidenze ritardate in XENONnT dalla calibrazione con sorgente di 222Rn.
@@ -79,9 +80,8 @@ sections:
         - **[Ed.s 2023/2024]** Organizer of "Parentesi" scientific literary symposium in L'Aquila.
         - **[Since 2023]** Trained guide for underground laboratory visits at LNGS.
         - **[Since 2022]** Member of the Public Relations team of the XENONnT experiment.
-        - **[Since 2021]** Activities organizer and public speaker at L'Aquila SHARPER researchers' night.
-        - **[Since 2021]** Member of the Scientific Jury of the Italian ASIMOV scientific literature prize.
-        - **[2018]** Organizer of the Space Jump event at Milano-Bicocca University with Italian astronaut Samantha Cristoforetti and Stefano Sandrelli (INAF).
+        - **[Since 2021]** Activities organizer and public speaker at L'Aquila SHARPER researchers night.
+        - **[Since 2021]** Scientific Jury Member of the Italian ASIMOV scientific literature prize.
     design:
       columns: '1'
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'XENONnT WIMP Search: Signal and Background Modeling and Statistical Inference'
+title: 'The Neutron Veto of the XENONnT Experiment: Results with Demineralized Water'
 authors:
   - 'me'
   - 'XENON Collaboration'
@@ -8,9 +8,9 @@ publishDate: "2025-01-01T00:00:00Z"
 
 publication_types: ['article-journal']
 publication:
-  name: "Phys. Rev. D"
-  volume: "111"
-  pages: "103040"
+  name: "Eur. Phys. J. C"
+  volume: "85"
+  pages: "695"
 
 peer_reviewed: true
 open_access: false
@@ -21,11 +21,11 @@ tags:
   - 'Dark Matter'
   - 'XENONnT'
 
-featured: true
+featured: false
 
 links:
   - type: doi
-    url: "https://doi.org/10.1103/PhysRevD.111.103040"
+    url: "https://doi.org/10.1140/epjc/s10052-025-14105-0"
 
 projects: []
 slides: ""

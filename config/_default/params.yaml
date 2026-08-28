@@ -19,11 +19,12 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "PhD Candidate in Astroparticle Physics"
+    tagline: "Postdoctoral Associate in Astroparticle Physics"
     # Site meta description for search engines and social sharing
-    description: "Cecilia Ferrari - PhD Candidate in Astroparticle Physics at
-      Gran Sasso Science Institute, working on the XENONnT, DARWIN and XLZD
-      dark matter experiments and low-temperature detector R&D."
+    description: "Cecilia Ferrari - Postdoctoral Associate at MIT working on
+      neutrino and dark matter experiments in the Russell group, including
+      DUNE, scintillating GaAs, and the XENONnT and XLZD dark matter
+      experiments."
     # Social accounts (used for meta tags like Twitter Cards)
     social: {}
 
