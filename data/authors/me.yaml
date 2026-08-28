@@ -1,0 +1,175 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Cecilia Ferrari
+  given: Cecilia
+  family: Ferrari
+  alternate: ''
+  pronunciation: ''
+  pronouns: she/her
+postnominals: []
+status:
+  icon: "🔭"
+role: PhD Candidate in Astroparticle Physics
+bio: |
+  I am interested in detector R&D for Beyond Standard Model physics experiments. I have experience in neutrino mass physics, nuclear physics in ultra-low-background experiments, and WIMP and light dark matter searches. I have characterized and refined pulse-processing tools for several low-temperature devices, including multiplexed TESs, the ABALONE prototype and SiPMs, and have conducted several data analysis and sensitivity studies.
+
+affiliations:
+  - name: Gran Sasso Science Institute
+    url: https://www.gssi.it/
+
+links:
+  - icon: at-symbol
+    url: mailto:cecilia.ferrari@gssi.it
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/cecilia-ferrari
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-0838-2328
+
+interests:
+  - Detector R&D for Beyond Standard Model physics
+  - Direct dark matter detection (XENONnT, DARWIN, XLZD)
+  - Light dark matter searches with low-temperature detectors
+  - Neutrino mass physics
+  - Nuclear physics in ultra-low-background experiments
+  - Low-temperature devices (TES, ABALONE, SiPMs)
+
+education:
+  - degree: PhD in Astroparticle Physics
+    institution: Gran Sasso Science Institute (L'Aquila, Italy)
+    start: 2020-09-01
+    summary: |
+      Working in the XENON, DARWIN and XLZD Collaborations and the DAREDEVIL light dark matter low-temperature detectors R&D project at LNGS.
+
+      Supervisor: A. D. Ferella
+  - degree: Master's Degree in Experimental Particle Physics
+    institution: Milano-Bicocca University (Milan, Italy)
+    start: 2018-09-01
+    end: 2020-10-31
+    summary: |
+      110/110 cum Laude, weighted exam average grade: 29.8/30.
+
+      Thesis: Characterization and Pulse Processing of TES Microcalorimeters Array for the HOLMES Experiment.
+
+      Supervisor: A. E. L. Nucciotti
+  - degree: Bachelor's Degree in Physics
+    institution: Milano-Bicocca University (Milan, Italy)
+    start: 2015-09-01
+    end: 2018-10-31
+    summary: |
+      110/110 cum Laude, weighted exam average grade: 29.42/30.
+
+      Thesis: A Time Resolution Study of a CMS Timing Detector.
+
+      Supervisor: T. Tabarelli de Fatis
+
+experience:
+  - role: PhD Researcher — XENON, DARWIN & XLZD Collaborations, DAREDEVIL project
+    org: Laboratori Nazionali del Gran Sasso (Assergi, Italy)
+    start: 2021-07-01
+    summary: |
+      - Member of the DAREDEVIL light dark matter project: light dark matter sensitivity studies with milli-Kelvin macrocalorimeters using a GaAs semiconductor target.
+      - Co-leader of the high-energy electronic-recoil (ER) XENONnT analysis group: coordination of the analysis group and development of the background modeling and fitting framework for XENONnT high-energy electron recoil analyses.
+      - Data analysis for nuclear physics and WIMP searches: measured $^{212}$Pb and $^{214}$Pb beta decay branching ratios with the XENONnT experiment; developed a physics-driven 6D model of the surface background for XENONnT WIMP searches with flamedisx, in participation with the LZ Collaboration.
+      - Run Coordinator of the XENONnT experiment: one month as Run Coordinator, following calibration campaigns, monitoring every experimental sub-system, and coordinating on-site shifters and expert operations.
+  - role: Visiting PhD Student
+    org: Stockholm University (Stockholm, Sweden)
+    start: 2022-06-01
+    end: 2022-06-30
+    summary: |
+      Supervisors: J. Conrad and J. Mahlstedt.
+
+      - First characterization of the novel ABALONE photosensor in a cryostat.
+      - Development of the flamedisx software for WIMP inference studies.
+  - role: Master Thesis — HOLMES Experiment
+    org: Milano-Bicocca University (Milan, Italy)
+    start: 2019-12-01
+    end: 2020-10-31
+    summary: |
+      - Characterization of a TES-based microcalorimeter multiplexed array: evaluation of V-I curves and thermal conductances to the bath of 16 TESs coupled to multiplexed RF-SQUID NIST μmux17a chips.
+      - Studies for a novel pulse filtering technique to process pile-up events, resulting in a 19% improvement of HOLMES sensitivity on neutrino mass. Corresponding author of a paper and a proceeding.
+  - role: Summer Student Internship — CLICdp Experiment
+    org: CERN, EP Department (Geneva, Switzerland)
+    start: 2019-06-01
+    end: 2019-09-30
+    summary: |
+      Long-lived particle detection sensitivity studies for the proposed Compact Linear Collider (CLICdp) experiment.
+  - role: Bachelor Thesis — CMS MTD Milano-Bicocca Group
+    org: Milano-Bicocca University (Milan, Italy)
+    start: 2018-06-01
+    end: 2018-10-31
+    summary: |
+      Characterization and noise analysis of a LYSO-coupled SiPM prototype for the CMS MTD Barrel Timing Layer.
+
+skills:
+  - name: Programming Languages
+    items:
+      - label: Python
+        level: 5
+      - label: Bash
+        level: 5
+      - label: C/C++
+        level: 3
+      - label: MATLAB
+        level: 3
+      - label: R
+        level: 1
+      - label: Perl
+        level: 1
+  - name: Software & Tools
+    items:
+      - label: Git & GitHub
+        level: 5
+      - label: ROOT Data Analysis Framework
+        level: 5
+      - label: LaTeX
+        level: 5
+      - label: COMSOL Multiphysics
+        level: 3
+      - label: Stan
+        level: 1
+
+languages:
+  - name: Italian
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Fluent
+  - name: French
+    level: 2
+    label: 'B1 — BBetween Unimib Open Badge'
+
+awards:
+  - title: "\"Chien-Shiung Wu\" Best New Talent diploma"
+    awarder: ISSP EMFCSC 2023
+    date: "2023-06-01"
+    summary: Awarded at the International School of Subnuclear Physics.
+    icon: hero/trophy
+  - title: 106th SIF National Congress contribution award
+    awarder: Italian Physical Society (SIF)
+    date: "2022-09-01"
+    summary: Contribution awarded with publication in Il Nuovo Cimento.
+    icon: hero/trophy
+  - title: GSSI PhD Scholarship
+    awarder: Gran Sasso Science Institute
+    date: "2020-01-01"
+    summary: Winner of a Gran Sasso Science Institute PhD scholarship.
+    icon: hero/academic-cap
+  - title: Milano-Bicocca University PhD Scholarship
+    awarder: Milano-Bicocca University
+    date: "2020-01-01"
+    summary: Winner of a Milano-Bicocca University PhD scholarship.
+    icon: hero/academic-cap
+  - title: CERN Summer Student Scholarship
+    awarder: CERN
+    date: "2019-01-01"
+    summary: Winner of a CERN Summer Student scholarship.
+    icon: hero/trophy
+  - title: IPP Summer School on Plasma Physics
+    awarder: Max Planck Institute for Plasma Physics (IPP)
+    date: "2018-01-01"
+    summary: Selected as a participant for the IPP Summer School on plasma physics and fusion research, Greifswald.
+    icon: hero/academic-cap
